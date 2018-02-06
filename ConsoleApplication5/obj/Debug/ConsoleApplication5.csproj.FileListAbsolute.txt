@@ -1,0 +1,13 @@
+d:\users\ярослав\documents\visual studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe.config
+d:\users\ярослав\documents\visual studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe
+d:\users\ярослав\documents\visual studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.pdb
+d:\users\ярослав\documents\visual studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.csprojResolveAssemblyReference.cache
+d:\users\ярослав\documents\visual studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.exe
+d:\users\ярослав\documents\visual studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.pdb
+D:\users\ярослав\documents\visual studio 2015\Projects\игра черепашка\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe.config
+D:\users\ярослав\documents\visual studio 2015\Projects\игра черепашка\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe
+D:\users\ярослав\documents\visual studio 2015\Projects\игра черепашка\ConsoleApplication5\bin\Debug\ConsoleApplication5.pdb
+D:\users\ярослав\documents\visual studio 2015\Projects\игра черепашка\ConsoleApplication5\obj\Debug\ConsoleApplication5.csprojResolveAssemblyReference.cache
+D:\users\ярослав\documents\visual studio 2015\Projects\игра черепашка\ConsoleApplication5\obj\Debug\ConsoleApplication5.csproj.CoreCompileInputs.cache
+D:\users\ярослав\documents\visual studio 2015\Projects\игра черепашка\ConsoleApplication5\obj\Debug\ConsoleApplication5.exe
+D:\users\ярослав\documents\visual studio 2015\Projects\игра черепашка\ConsoleApplication5\obj\Debug\ConsoleApplication5.pdb
